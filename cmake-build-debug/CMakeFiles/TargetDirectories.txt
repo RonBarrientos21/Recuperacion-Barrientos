@@ -1,0 +1,3 @@
+C:/Users/ctrlg/CLionProjects/Recuperacion-Barrientos/cmake-build-debug/CMakeFiles/Recuperacion_Barrientos.dir
+C:/Users/ctrlg/CLionProjects/Recuperacion-Barrientos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ctrlg/CLionProjects/Recuperacion-Barrientos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
